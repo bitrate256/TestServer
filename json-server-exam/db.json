@@ -1,0 +1,28 @@
+{
+    "Assets": [
+        {
+            "asset_no": "BNO_0001_T",
+            "asset_type_code": "테이블",
+            "user_name": "홍길동",
+            "asset_model_name": "테이블1",
+            "asset_serial_no": "1111",
+            "use_start_date": "2020-01-02",
+            "asset_stat": "정상",
+            "asset_pjt_loc": "본사",
+            "etc": "비고내용",
+            "reg_date": "2020-01-01"
+        },
+        {
+            "asset_no": "BNO_0002_N",
+            "asset_type_code": "노트북",
+            "user_name": "홍길동",
+            "asset_model_name": "ASUS X412F",
+            "asset_serial_no": "1111",
+            "use_start_date": "2020-01-03",
+            "asset_stat": "정상",
+            "asset_pjt_loc": "본사",
+            "etc": "비고내용",
+            "reg_date": "2020-01-02"
+        }
+    ]
+}
