@@ -8,3 +8,6 @@
 ### json-server-exam -> json test server
 
 **서버 사용 방법** : Terminal 에서 npm start - http://localhost:5000/Assets 접속
+
+
+###JPA 서버 삭제됨
